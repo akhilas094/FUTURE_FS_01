@@ -1,92 +1,72 @@
-# Personal Portfolio Website
+# Project 1 — Personal Developer Portfolio
 
-## Overview
+A responsive personal portfolio built to introduce my background,
+technical skills, education, certifications, and projects.
 
-A responsive personal portfolio website that brings my skills, education, internship experience, certifications, and projects into one place.
+The website brings my work and professional profiles together
+in a light, readable interface.
 
-The website provides a clear introduction to my development journey and helps visitors explore my work and connect with me.
+## Live Project
 
-## Open the Website
+👉 [Open My Portfolio](https://akhila-dev-portfolio.idealtulip34.chatgpt.site)
 
-[View Portfolio Demo](https://akhila-dev-portfolio.idealtulip34.chatgpt.site)
-
-> This demo is private and may require owner access.
-
-## GitHub Repository
-
-[View Source Code](https://github.com/akhilas094/FUTURE_FS_01)
-
-## Objectives
-
-- Present my professional profile clearly.
-- Showcase projects and technical skills.
-- Provide an accessible layout across screen sizes.
-- Make my LinkedIn and GitHub profiles easy to find.
+.
 
 ## Features
 
-- Introduction and professional summary
-- Technical skills section
-- Education and internship experience
-- Certifications section
-- Interactive project category filters
-- Expandable project descriptions
-- Printable resume section
-- LinkedIn and GitHub profile links
-- Responsive navigation and layout
-- Contact form with browser-local draft saving
+- Introduction and about section.
+- Technical skills overview.
+- Education and certification details.
+- Project cards with descriptions.
+- LinkedIn and GitHub profile links.
+- Contact form interface.
+- Light colour theme with readable text.
+- Responsive layout for desktop and mobile screens.
 
-## Featured Projects
+## Projects Showcased
 
-### FilmConnect
-A networking and collaboration platform connecting film talent, creators, and casting opportunities.
-
-### AI/ML Skin Expert
-A project exploring artificial intelligence and machine learning for skin analysis.
-
-### Resume Builder
-A web application project focused on organizing professional information into a resume.
+- FilmConnect — Film Industry Networking Platform.
+- AI/ML Skin Expert — Skin Analysis Application.
+- Resume Builder — Resume Creation Tool.
 
 ## Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| HTML5 | Semantic page structure |
-| CSS3 | Styling, layout, and responsive design |
-| JavaScript | Project filters, dialogs, and form interactions |
-| Google Fonts | Typography |
+- HTML5
+- CSS3
+- JavaScript
+- Browser localStorage for contact drafts
 
-## Run Locally
+## How to Explore
 
-1. Download or clone this repository.
-2. Open the project folder.
-3. Double-click `index.html`.
+1. Open the live portfolio link.
+2. Browse the about, skills, and education sections.
+3. Explore the featured projects.
+4. Use the LinkedIn and GitHub links to view my profiles.
 
-No dependency installation or build step is required.
+## Contact Form Information
 
-## Contact Form Status
+The current contact form saves a draft in the visitor's browser.
+It does not send messages or email notifications.
 
-The form currently saves a message draft in the visitor’s browser.
-It does not send emails or submit enquiries to the CRM.
+## What I Learned
 
-## Learning Outcomes
-
-- Structuring a personal website using semantic HTML
-- Creating responsive layouts with CSS
-- Adding interactions using JavaScript
-- Improving readability and visual hierarchy
-- Organizing project information for visitors
+- Structuring a personal portfolio.
+- Creating responsive layouts.
+- Improving readability through colour and typography.
+- Building interactive elements with JavaScript.
+- Organizing project information for visitors.
 
 ## Future Improvements
 
-- Add a downloadable resume PDF
-- Connect email delivery or a CRM enquiry endpoint
-- Add verified project screenshots and repository links
-- Expand project descriptions with implementation details
+- Connect the contact form to an email service.
+- Add a downloadable resume.
+- Add verified repository links and individual project demos.
+- Improve accessibility and performance further.
 
 ## Author
 
-Akhila
+**Akhila S**
 
-- GitHub: https://github.com/akhilas094
-- LinkedIn: https://www.linkedin.com/in/akhilas09
+GitHub: https://github.com/akhilas094
+
+LinkedIn: https://www.linkedin.com/in/akhilas09
