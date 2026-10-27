@@ -1,24 +1,40 @@
 # Personal Portfolio Website
 
-A responsive portfolio website showcasing my technical skills, projects, education, certifications, and internship experience.
+## Overview
+
+A responsive personal portfolio website that brings my skills, education, internship experience, certifications, and projects into one place.
+
+The website provides a clear introduction to my development journey and helps visitors explore my work and connect with me.
+
+## Open the Website
+
+[View Portfolio Demo](https://akhila-dev-portfolio.idealtulip34.chatgpt.site)
+
+> This demo is private and may require owner access.
+
+## GitHub Repository
+
+[View Source Code](https://github.com/akhilas094/FUTURE_FS_01)
+
+## Objectives
+
+- Present my professional profile clearly.
+- Showcase projects and technical skills.
+- Provide an accessible layout across screen sizes.
+- Make my LinkedIn and GitHub profiles easy to find.
 
 ## Features
 
-- Clean, light theme with readable text
-- Responsive layout for desktop and mobile
-- Interactive project filters
+- Introduction and professional summary
+- Technical skills section
+- Education and internship experience
+- Certifications section
+- Interactive project category filters
 - Expandable project descriptions
-- Education and internship experience sections
 - Printable resume section
 - LinkedIn and GitHub profile links
+- Responsive navigation and layout
 - Contact form with browser-local draft saving
-
-## Technologies Used
-
-- HTML5 — page structure
-- CSS3 — styling and responsive layouts
-- JavaScript — filtering, dialogs, and form interactions
-- Google Fonts — typography
 
 ## Featured Projects
 
@@ -31,45 +47,46 @@ A project exploring artificial intelligence and machine learning for skin analys
 ### Resume Builder
 A web application project focused on organizing professional information into a resume.
 
+## Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Semantic page structure |
+| CSS3 | Styling, layout, and responsive design |
+| JavaScript | Project filters, dialogs, and form interactions |
+| Google Fonts | Typography |
+
 ## Run Locally
 
-1. Clone the repository:
-
-   git clone https://github.com/akhilas094/FUTURE_FS_01.git
-
+1. Download or clone this repository.
 2. Open the project folder.
-3. Double-click index.html to open the website in your browser.
+3. Double-click `index.html`.
 
-No installation or build step is required.
-
-## Project Structure
-
-FUTURE_FS_01/
-├── index.html
-└── README.md
-
-The HTML, CSS, and JavaScript are contained in index.html.
+No dependency installation or build step is required.
 
 ## Contact Form Status
 
-The contact form currently saves a draft in the visitor’s browser.
-It does not send messages or email notifications yet.
+The form currently saves a message draft in the visitor’s browser.
+It does not send emails or submit enquiries to the CRM.
 
-EmailJS integration is planned.
+## Learning Outcomes
+
+- Structuring a personal website using semantic HTML
+- Creating responsive layouts with CSS
+- Adding interactions using JavaScript
+- Improving readability and visual hierarchy
+- Organizing project information for visitors
 
 ## Future Improvements
 
-- Connect email notifications using EmailJS
 - Add a downloadable resume PDF
-- Include verified project screenshots and repository links
-- Expand project descriptions and implementation details
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/akhilas09
-- GitHub: https://github.com/akhilas094
+- Connect email delivery or a CRM enquiry endpoint
+- Add verified project screenshots and repository links
+- Expand project descriptions with implementation details
 
 ## Author
 
 Akhila
-MCA Student | Full Stack Development Learner
+
+- GitHub: https://github.com/akhilas094
+- LinkedIn: https://www.linkedin.com/in/akhilas09
